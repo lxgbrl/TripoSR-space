@@ -1,0 +1,2 @@
+# TripoSR-space
+TripoSR huggingface
